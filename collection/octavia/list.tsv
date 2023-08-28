@@ -23,12 +23,12 @@ id	text	file	artist	title	standard	audio	renderer	extra
 21	v	01KIMIGA	KAWAI	君がいるだけで	GMega	GMega	DearHoney	Might be replaced due to copyright concerns
 22	w	10DOREMI	KAWAI	Do-Re-Mi	GMega	GMega	DearHoney	Might be replaced due to copyright concerns
 23	x	haruyoko	松任谷由実, Yamaha	春よ、来い	XG, PLG-SG	MU2000, PLG-100SG	superdeadite	
-24	y	VLjazzy	Yamaha	VLjazzy	XG, PLG-VL	MU1000, PLG-150VL	DearHoney	
+24	y	VLjazzy	Yamaha	VLjazzy	XG, PLG-VL	MU1000, PLG150-VL	DearHoney	
 25	z	PhoenixA	大平勇/氏家克典	A Phoenix to the 21st Century (Part A, Music Factory)	XG	MU1000	DearHoney	
 26	0	PhoenixB	大平勇/布施威	A Phoenix to the 21st Century (Part B, Invitation)	XG	MU1000	DearHoney	
 27	1	ninety_hipty	Yamaha	Ninety Hipty	XG	MU90	BEXY'S PC	
 28	2	MM2_DotT	Clint Bajakian, Peter McConnel, Michael Z. Land	Day of the Tentacle: Introduction	MT-32	MUNT	Lumière Élevé	
-29	3	02THEATR	Idecs Music Software	The PF Theatre	XG, PLG-PF	MU1000, PLG-150PF	DearHoney	
+29	3	02THEATR	Idecs Music Software	The PF Theatre	XG, PLG-PF	MU1000, PLG150-PF	DearHoney	
 30	4	01JAZZ	Idecs Music Software	The Secret Place	GS	SC-8850	Romantique Tp	
 31	5	05ORCHE	久光浩, 本郷久恵	Space Flight	GS	SC-8850	Romantique Tp	
 32	6	R-love	森尾隆	Is It Really Love?	XG	MU2000	KR. Palto47	
@@ -37,11 +37,11 @@ id	text	file	artist	title	standard	audio	renderer	extra
 35	9	MU100DEMO	Yamaha	It's an AmaZing MU World!!	XG	MU100	DearHoney	
 36	α	TheMusithm	Yamaha	The Musithm	XG	MU50	Pixel Refresh	
 37	β	MM2_Ep_Scumm	Clint Bajakian, Peter McConnel, Michael Z. Land	Day of the Tentacle: Epilogue	MT-32	MUNT	Lumière Élevé	
-38	γ	12EP	長栄克巳	EP Ballade	XG, PLG-DX	MU2000, PLG-150DX	AlcanTAK	
-39	δ	12SOULDX	向谷実	The Soul of DX	XG, PLG-DX	MU2000, PLG-150DX	atamaitai kurakura	
+38	γ	12EP	長栄克巳	EP Ballade	XG, PLG-DX	MU2000, PLG150-DX	AlcanTAK	
+39	δ	12SOULDX	向谷実	The Soul of DX	XG, PLG-DX	MU2000, PLG150-DX	atamaitai kurakura	
 40	ε	MU128DEMO	Paul Lawley, Graham Lee, 小川恭範	MU128 Demo	XG	MU128	yanorei32	
-41	ζ	Old_Tek	森尾隆	Old Techno	XG, PLG-AN	MU2000, PLG-150AN	MasterJace	
-42	η	RnB	森尾隆	Rhythm&Blues	XG, PLG-AN	MU2000, PLG-150AN	MasterJace	
+41	ζ	Old_Tek	森尾隆	Old Techno	XG, PLG-AN	MU2000, PLG150-AN	MasterJace	
+42	η	RnB	森尾隆	Rhythm&Blues	XG, PLG-AN	MU2000, PLG150-AN	MasterJace	
 43	θ	MIDI Massacre	TôBach	MIDI Massacre	GS	Microsoft GS Wavetable	TôBach	
 44	ι	DREAMOFL	JayB	Dream of Light	XG	QY100	JayB	The original song is unfinished
 45	κ	Sam Sketty - Smokin	Sam Sketty	Smokin'	XG	MU80	DarkWolf	
@@ -56,3 +56,4 @@ id	text	file	artist	title	standard	audio	renderer	extra
 54	τ	44378	Europe	The Final Countdown	GS	SC-55	Lumière Élevé	
 55	υ	rosevent	Anggun	La Rose de Vent	GS	SC-55	Lumière Élevé	
 56	φ	QY70D_1	Yamaha	QY70 Demo No. 1	XG	QY70	JayB	
+57	χ	tokinona	鄧麗君	時の流れに身を任せ	XG	MU2000, PLG100-SG	superdeadite	
