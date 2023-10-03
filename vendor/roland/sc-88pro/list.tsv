@@ -1,0 +1,36 @@
+id	file	artist	title	standard	audio	renderer	extra
+0	01PianoA	秋透	Acoustic Piano Solo 1	GS	SC-88 Pro		
+1	02PianoB	秋透	Acoustic Piano Solo 2	GS	SC-88 Pro		
+2	03PianoC	秋透	Acoustic Piano Solo 3	GS	SC-88 Pro		
+3	04PianoD	Idecs Music Software	Piano + Rhythm	GS	SC-88 Pro		
+4	05EPiano	Idecs Music Software	Rhodes + Effect	GS	SC-88 Pro		
+5	06OrganA	Idecs Music Software	Organ + Rotary	GS	SC-88 Pro		
+6	07OrganB	Music Brains	Organ + Rhythm	GS	SC-88 Pro		
+7	08Acdion	Team-khy	Accordion Demo	GS	SC-88 Pro		
+8	09NylonG	Music Brains	Nylon Guitar Solo	GS	SC-88 Pro		
+9	10SteelG	Music Brains	Steel Guitar Solo	GS	SC-88 Pro		
+10	11Gt_EFX	Idecs Music Software	Guitar EFX Menu	GS	SC-88 Pro		
+11	12Dist_G	Music Brains	Distortion Guitar Demo	GS	SC-88 Pro		
+12	13Wah_G	Music Brains	Wah Guitar Demo	GS	SC-88 Pro	DearHoney	
+13	14Funk_G	Music Brains	Funk Guitar Demo	GS	SC-88 Pro		
+14	15Jazz_G	Music Brains	Jazz Guitar Demo	GS	SC-88 Pro		
+15	16Blus_G	Music Brains	Blues Guitar Demo	GS	SC-88 Pro		
+16	17Bass	松浦直樹	Bass Demo	GS	SC-88 Pro		
+17	18Choir	Idecs Music Software	Choir Demo	GS	SC-88 Pro		
+18	19String	Team-khy	Strings Quart	GS	SC-88 Pro		
+19	20St_Ens	Team-khy	Strings Ensemble	GS	SC-88 Pro		
+20	21Ochstr	大田川恭子	Orchestra	GS	SC-88 Pro	DearHoney	
+21	22Sax	Music Brains	Alto & Tenor Sax	GS	SC-88 Pro		
+22	23Brass	Music Brains	Trumpet & Trombone	GS	SC-88 Pro		
+23	24Latin	Idecs Music Software	Samba & Salsa	GS	SC-88 Pro		
+24	25Japan	Idecs Music Software	Japanese	GS	SC-88 Pro	DearHoney	
+25	26China	Team-khy	Chinese	GS	SC-88 Pro		
+26	27LoFi_D	Idecs Music Software	Lo-Fi Dance	GS	SC-88 Pro		
+27	28LoFi_J	Idecs Music Software	Lo-Fi Jazz	GS	SC-88 Pro		
+28	29LoFi_S	Music Brains	Lo-Fi Synth	GS	SC-88 Pro		
+29	30Syn_H	Idecs Music Software	Synth + Humanizer	GS	SC-88 Pro		
+30	31H_J&F	Idecs Music Software	Idecs Hyper Groove / Jazz & Fusion	GS	SC-88 Pro		
+31	32H_Dan1	Idecs Music Software	Idecs Hyper Groove / Dance	GS	SC-88 Pro		
+32	33H_R&P	Idecs Music Software	Idecs Hyper Groove / Rock & Pop	GS	SC-88 Pro		
+33	34H_Latn	Idecs Music Software	Idecs Hyper Groove / Latin	GS	SC-88 Pro		
+34	35H_Dan2	Idecs Music Software	Idecs Hyper Groove / Dance II	GS	SC-88 Pro		
