@@ -1,13 +1,13 @@
 id	file	artist	title	standard	audio	renderer	extra
 0	VLjazzy	Yamaha	VL Jazzy Acid	XG, PLG150-VL	MU1000, PLG150-VL	DearHoney	
-1	CoolJiva	Yamaha	Cool JiVA	XG, PLG150-VL	MU100, PLG150-VL	Schule04	
-2	DoGrooVA	Yamaha	Do GrooVA	XG, PLG150-VL	MU100, PLG150-VL	Schule04	
-3	Clouds	Yamaha	Clouds	XG, PLG150-VL	MU100, PLG150-VL	Schule04	
+1	CoolJiva	氏家克典	Cool JiVA	XG, PLG150-VL	MU100, PLG150-VL	Schule04	
+2	DoGrooVA	氏家克典	Do GrooVA	XG, PLG150-VL	MU100, PLG150-VL	Schule04	
+3	Clouds	鈴木明男	Clouds	XG, PLG150-VL	MU100, PLG150-VL	Schule04	
 4	SngIndia	Yamaha	Song of India	XG, PLG150-VL	S-YXG100PVL, S-YXG50	Lumière Élevé	
 5	oSoleMio	Yamaha	O sole mio	XG, PLG150-VL	S-YXG100PVL, S-YXG50	Lumière Élevé	
 6	Bounce3	Yamaha	Bounce	XG, PLG150-VL	S-YXG100PVL, S-YXG50	Lumière Élevé	
-7	Nobody	Yamaha	Nobody Knows	XG, PLG150-VL	MU100, PLG150-VL	Schule04	
-8	Silhouet	Yamaha	Silhouettes	XG, PLG150-VL	MU100, PLG150-VL	Schule04	
+7	Nobody	鈴木明男	Nobody Knows	XG, PLG150-VL	MU100, PLG150-VL	Schule04	
+8	Silhouet	Tom Scott, Nate Tschetter, Charles Feilding	Silhouettes	XG, PLG150-VL	MU100, PLG150-VL	Schule04	
 9	USPatrol	Yamaha	American Patrol	XG, PLG150-VL	S-YXG100PVL, S-YXG50	Lumière Élevé	
 10	Wiener	Yamaha	Geschichten aus dem Wiener Wald	XG, PLG150-VL	S-YXG100PVL, S-YXG50	Lumière Élevé	
 11	Casation	Yamaha	Cassation (Toy Symphony)	XG, PLG150-VL	S-YXG100PVL, S-YXG50	Lumière Élevé	
@@ -17,5 +17,6 @@ id	file	artist	title	standard	audio	renderer	extra
 15	Primvera	Yamaha	La Primavera (1st mov.)	XG, PLG150-VL	S-YXG100PVL, S-YXG50	Lumière Élevé	
 16	Tableaux	Yamaha	Tableaux d'une exposition	XG, PLG150-VL	S-YXG100PVL, S-YXG50	Lumière Élevé	
 17	DinoJung	Yamaha	Dino Jungle	XG, PLG150-VL	S-YXG100PVL, S-YXG50	Lumière Élevé	
-18	VAmbient	Yamaha	VAmbient	XG, PLG150-VL	MU100, PLG150-VL	Schule04	
-19	Oxygen	Yamaha	Oxygen	XG, PLG150-VL	MU100, PLG150-VL	Schule04	
+18	VAmbient	氏家克典	VAmbient	XG, PLG150-VL	MU100, PLG150-VL	Schule04	
+19	Oxygen	Andy Mowat, Daniel Powell	Oxygen	XG, PLG150-VL	MU100, PLG150-VL	Schule04	
+20	FatPizz	Yamaha	Fat Pizz	XG, PLG150-VL	S-YXG100PVL, S-YXG50	Lumière Élevé
