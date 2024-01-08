@@ -36,7 +36,7 @@ id	text	file	artist	title	standard	audio	renderer	extra
 34	8	OutOfTheMuse	Yamaha	Out of the Muse	XG	MU80	kora kuma	
 35	9	MU100DEMO	Yamaha	It's an AmaZing MU World!!	XG	MU100	DearHoney	
 36	α	TheMusithm	Yamaha	The Musithm	XG	MU50	Pixel Refresh	
-37	β	CoolJiva	氏家克典	Cool JiVA	 XG, PLG150-VL	MU100, PLG150-VL	Schule04	
+37	β	CoolJiva	氏家克典	Cool JiVA	 XG, PLG150-VL	MU100, PLG100-VL	Schule04	
 38	γ	12EP	長栄克巳	EP Ballade	XG, PLG-DX	MU2000, PLG150-DX	AlcanTAK	
 39	δ	12SOULDX	向谷実	The Soul of DX	XG, PLG-DX	MU2000, PLG150-DX	atamaitai kurakura	
 40	ε	MU128DEMO	Paul Lawley, Graham Lee, 小川恭範	MU128 Demo	XG	MU128	yanorei32	
@@ -60,14 +60,14 @@ id	text	file	artist	title	standard	audio	renderer	extra
 58	ψ	WORM	坂上暢	W O R M hole	GS	SCVA (SC-55)	Lumière Élevé	MIDI archived by DearHoney
 59	ω	DSL_DEMO	小見純一	Drum Solo Demo	XG, PLG150-DR	MU2000, PLG150-DR	superdeadite	MIDI archived by now_its_dark
 60	ς	PXG_DEMO	今泉敏郎	PLG150-PC XG Demo	XG, PLG150-PC	MU100, PLG150-PC	Dbug	MIDI archived by now_its_dark
-61	б	DoGrooVA	氏家克典	Do GrooVA	XG, PLG150-VL	MU100, PLG150-VL	Schule04	
+61	б	DoGrooVA	氏家克典	Do GrooVA	XG, PLG150-VL	MU100, PLG100-VL	Schule04	
 62	в	02SOLO	Idecs Music Software	Solo Demo	XG, PLG-150PF	MU1000, PLG-150PF	DearHoney	
-63	г	Clouds	鈴木明男	Clouds	XG, PLG150-VL	MU100, PLG150-VL	Schule04	
-64	ґ	Nobody	鈴木明男	Nobody Knows	XG, PLG150-VL	MU100, PLG150-VL	Schule04	
-65	д	Silhouet	Tom Scott, Nate Tschetter, Charles Feilding	Silhouettes	XG, PLG150-VL	MU100, PLG150-VL	Schule04	
-66	є	VAmbient	氏家克典	VAmbient	XG, PLG150-VL	MU100, PLG150-VL	Schule04	
-67	ж	FatPizz	Yamaha	Fat Pizz	XG, PLG150-VL	MU100, PLG150-VL	Arthur Pirika	
-68	з	Wiener	Yamaha	Geschichten aus dem Wiener Wald	XG, PLG150-VL	MU100, PLG150-VL	Arthur Pirika	
+63	г	Clouds	鈴木明男	Clouds	XG, PLG150-VL	MU100, PLG100-VL	Schule04	
+64	ґ	Nobody	鈴木明男	Nobody Knows	XG, PLG150-VL	MU100, PLG100-VL	Schule04	
+65	д	Silhouet	Tom Scott, Nate Tschetter, Charles Feilding	Silhouettes	XG, PLG150-VL	MU100, PLG100-VL	Schule04	
+66	є	VAmbient	氏家克典	VAmbient	XG, PLG150-VL	MU100, PLG100-VL	Schule04	
+67	ж	FatPizz	Yamaha	Fat Pizz	XG, PLG150-VL	MU2000, PLG150-VL	Arthur Pirika	
+68	з	Wiener	Yamaha	Geschichten aus dem Wiener Wald	XG, PLG150-VL	MU2000, PLG150-VL	Arthur Pirika	
 69	и	PRckStar	Yamaha	Pop'n Rock Star	XG, PLG-PVL	S-YXG100PVL, S-YXG50	Lumière Élevé	MU100+ required
 70	й	ExprWay	Yamaha	Express Way	XG, PLG-PVL	QY70, S-YXG100PVL	JayB, Lumière Élevé	
 71	к	HrtBeat	Yamaha	Heart Beat	XG, PLG-PVL	S-YXG100PVL, S-YXG50	Lumière Élevé	
