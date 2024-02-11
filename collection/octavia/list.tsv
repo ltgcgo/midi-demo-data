@@ -17,7 +17,7 @@ id	text	file	artist	title	standard	audio	renderer	extra
 15	p	Y4002_06	久光浩	韋駄天	GS	SC-88	DearHoney	
 16	q	Cybergate	David J. Reading	Cybergate	XG	QY70	JayB	
 17	r	05RWDEMO	KORG	Mad Robot	05R/W	05R/W	DearHoney	
-18	s	AGDEMO3	KORG	Clasitario	AG-10	AG-11	DearHoney	
+18	s	AGDEMO3	KORG	Clasitario	AG-10	AG-10	DearHoney	
 19	t	Greg's Mantra	David J. Reading	Greg's Mantra	XG	QY70	JayB	
 20	u	TheFarEast	KORG	The Far East	KROSS 2	KROSS 2	JayB	
 21	v	01KIMIGA	KAWAI	君がいるだけで	GMega	GMega	DearHoney	Might be replaced due to copyright concerns
@@ -36,7 +36,7 @@ id	text	file	artist	title	standard	audio	renderer	extra
 34	8	OutOfTheMuse	Yamaha	Out of the Muse	XG	MU80	kora kuma	
 35	9	MU100DEMO	Yamaha	It's an AmaZing MU World!!	XG	MU100	DearHoney	
 36	α	TheMusithm	Yamaha	The Musithm	XG	MU50	Pixel Refresh	
-37	β	CoolJiva	氏家克典	Cool JiVA	 XG, PLG150-VL	MU100, PLG100-VL	Schule04	
+37	β	CoolJiva	氏家克典	Cool JiVA	 XG, PLG-VL	MU100, PLG100-VL	Schule04	
 38	γ	12EP	長栄克巳	EP Ballade	XG, PLG-DX	MU2000, PLG150-DX	AlcanTAK	
 39	δ	12SOULDX	向谷実	The Soul of DX	XG, PLG-DX	MU2000, PLG150-DX	atamaitai kurakura	
 40	ε	MU128DEMO	Paul Lawley, Graham Lee, 小川恭範	MU128 Demo	XG	MU128	yanorei32	
@@ -58,16 +58,16 @@ id	text	file	artist	title	standard	audio	renderer	extra
 56	φ	QY70D_1	Yamaha	QY70 Demo No. 1	XG	QY70	JayB	
 57	χ	tokinona	鄧麗君	時の流れに身を任せ	XG	MU2000, PLG100-SG	superdeadite	
 58	ψ	WORM	坂上暢	W O R M hole	GS	SCVA (SC-55)	Lumière Élevé	MIDI archived by DearHoney
-59	ω	DSL_DEMO	小見純一	Drum Solo Demo	XG, PLG150-DR	MU2000, PLG150-DR	superdeadite	MIDI archived by now_its_dark
-60	ς	PXG_DEMO	今泉敏郎	PLG150-PC XG Demo	XG, PLG150-PC	MU100, PLG150-PC	Dbug	MIDI archived by now_its_dark
-61	б	DoGrooVA	氏家克典	Do GrooVA	XG, PLG150-VL	MU100, PLG100-VL	Schule04	
+59	ω	DSL_DEMO	小見純一	Drum Solo Demo	XG, PLG-DR	MU2000, PLG150-DR	superdeadite	MIDI archived by now_its_dark
+60	ς	PXG_DEMO	今泉敏郎	PLG150-PC XG Demo	XG, PLG-PC	MU100, PLG150-PC	Dbug	MIDI archived by now_its_dark
+61	б	DoGrooVA	氏家克典	Do GrooVA	XG, PLG-VL	MU100, PLG100-VL	Schule04	
 62	в	02SOLO	Idecs Music Software	Solo Demo	XG, PLG-150PF	MU1000, PLG-150PF	DearHoney	
-63	г	Clouds	鈴木明男	Clouds	XG, PLG150-VL	MU100, PLG100-VL	Schule04	
-64	ґ	Nobody	鈴木明男	Nobody Knows	XG, PLG150-VL	MU100, PLG100-VL	Schule04	
-65	д	Silhouet	Tom Scott, Nate Tschetter, Charles Feilding	Silhouettes	XG, PLG150-VL	MU100, PLG100-VL	Schule04	
-66	є	VAmbient	氏家克典	VAmbient	XG, PLG150-VL	MU100, PLG100-VL	Schule04	
-67	ж	FatPizz	Yamaha	Fat Pizz	XG, PLG150-VL	MU2000, PLG150-VL	Arthur Pirika	
-68	з	Wiener	Yamaha	Geschichten aus dem Wiener Wald	XG, PLG150-VL	MU2000, PLG150-VL	Arthur Pirika	
+63	г	Clouds	鈴木明男	Clouds	XG, PLG-VL	MU100, PLG100-VL	Schule04	
+64	ґ	Nobody	鈴木明男	Nobody Knows	XG, PLG-VL	MU100, PLG100-VL	Schule04	
+65	д	Silhouet	Tom Scott, Nate Tschetter, Charles Feilding	Silhouettes	XG, PLG-VL	MU100, PLG100-VL	Schule04	
+66	є	VAmbient	氏家克典	VAmbient	XG, PLG-VL	MU100, PLG100-VL	Schule04	
+67	ж	FatPizz	Yamaha	Fat Pizz	XG, PLG-VL	MU2000, PLG150-VL	Arthur Pirika	
+68	з	Wiener	Yamaha	Geschichten aus dem Wiener Wald	XG, PLG-VL	MU2000, PLG150-VL	Arthur Pirika	
 69	и	PRckStar	Yamaha	Pop'n Rock Star	XG, PLG-PVL	S-YXG100PVL, S-YXG50	Lumière Élevé	MU100+ required
 70	й	ExprWay	Yamaha	Express Way	XG, PLG-PVL	QY70, S-YXG100PVL	JayB	
 71	к	HrtBeat	Yamaha	Heart Beat	XG, PLG-PVL	S-YXG100PVL, S-YXG50	Lumière Élevé	
@@ -76,4 +76,4 @@ id	text	file	artist	title	standard	audio	renderer	extra
 74	н	Tabiji	Yamaha	旅路	XG, PLG-PVL	S-YXG100PVL, S-YXG50	Lumière Élevé	
 75	ө	Timeless	Yamaha	Timeless	XG, PLG-PVL	QY70, S-YXG100PVL	JayB	
 76	п	Taiga	Yamaha	大河	XG, PLG-PVL	S90 ES, S-YXG100PVL	JayB	
-77	т	02COLORS	福田裕彦	Many Colors of the DX7 System	PLG150-DX	PLG150-DX	Dave Harris	
+77	т	02COLORS	福田裕彦	Many Colors of the DX7 System	PLG-DX	PLG150-DX	Dave Harris	
