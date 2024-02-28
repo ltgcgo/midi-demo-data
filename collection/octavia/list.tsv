@@ -19,7 +19,7 @@ id	text	file	artist	title	standard	audio	renderer	extra
 17	r	05RWDEMO	KORG	Mad Robot	05R/W	05R/W	DearHoney	
 18	s	AGDEMO3	KORG	Clasitario	AG-10	AG-10	DearHoney	
 19	t	Greg's Mantra	David J. Reading	Greg's Mantra	XG	QY70	JayB	
-20	u	TheFarEast	KORG	The Far East	KROSS 2	KROSS 2	JayB	
+20	u	TheFarEast	KORG	The Far East	KROSS 2	KROSS 2	PianoManChuck	
 21	v	01KIMIGA	KAWAI	君がいるだけで	GMega	GMega	DearHoney	Might be replaced due to copyright concerns
 22	w	10DOREMI	KAWAI	Do-Re-Mi	GMega	GMega	DearHoney	Might be replaced due to copyright concerns
 23	x	haruyoko	松任谷由実, Yamaha	春よ、来い	XG, PLG-SG	MU2000, PLG-100SG	superdeadite	
@@ -80,3 +80,4 @@ id	text	file	artist	title	standard	audio	renderer	extra
 78	ф	AGDEMO1	KORG	Wild Cat	AG-10	AG-10	DearHoney	
 79	ц	AGDEMO2	KORG	Red Giant	AG-10	AG-10	DearHoney	
 80	ч	Korg - We've Got Dreams	KORG	We've Got Dreams	X5D	X5DR	DearHoney	
+81	џ	MagnaCarta	KORG	Magna Carta	KROSS 2	KROSS 2	PianoManChuck	
