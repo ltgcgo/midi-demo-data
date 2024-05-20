@@ -1,17 +1,19 @@
 id	file	artist	title	standard	audio	renderer	extra
-0	TheMusithm	Yamaha	The Musithm	XG	MU50	Pixel Refresh	
-1	OutOfTheMuse	Yamaha	Out of the Muse	XG	MU80	kora kuma	
-2	ninety_hipty	Yamaha	Ninety Hipty	XG	MU90	BEXY'S PC	
-3	MU100DEMO	Yamaha	It's An AmaZing MU World!!	XG	MU100	DearHoney	
-4	MU128DEMO	Paul Lawley, Graham Lee, 小川恭範	MU128 Demo	XG	MU128	yanorei32	
-5	PhoenixA	大平勇/氏家克典	Music Factory	XG	MU1000	DearHoney	
-6	PhoenixB	大平勇/布施威	Invitation	XG	MU1000	DearHoney	
-7	F-Cool	氏家克典	Funk the Cool	XG	MU1000	KR. Palto47	
-8	opus8	小川悦司	Opus 8	XG	MU1000	KR. Palto47	
-9	Classic	宗川博	Classic Medley	XG	MU1000	KR. Palto47	
-10	rushhour	Sam Sketty, Graham Lee, 小川恭範	Rush Hour	XG	MU1000	KR. Palto47	
-11	sa-world	氏家克典	Secrets of Another World	XG	MU1000	N/A	
-12	pianocon	Unknown	Piano Concerto	XG	MU1000	N/A	
-13	serenade	Pyotr Ilyich Tchaikovsky, Unknown	Serenade op.48	XG	MU1000	N/A	
-14	mars	Gustav Holst, Unknown	Mars, the Bringer of War	XG	MU1000	N/A	
-15	xdh	Unknown	小刀會	XG	MU1000	N/A	
+0	MU5DEMO	Yamaha	MU5 Demo	GM	MU5	N/A	
+1	TheMusithm	Yamaha	The Musithm	XG	MU50	Pixel Refresh	
+2	OutOfTheMuse	Yamaha	Out of the Muse	XG	MU80	kora kuma	
+3	ninety_hipty	Yamaha	Ninety Hipty	XG	MU90	BEXY'S PC	
+4	MU100DEMO	Yamaha	It's An AmaZing MU World!!	XG	MU100	DearHoney	
+5	MU15DEMO	Gigbag	Prologue	XG	MU15	Solarstorm	
+6	MU128DEMO	Paul Lawley, Graham Lee, 小川恭範	MU128 Demo	XG	MU128	yanorei32	
+7	PhoenixA	大平勇/氏家克典	Music Factory	XG	MU1000	DearHoney	
+8	PhoenixB	大平勇/布施威	Invitation	XG	MU1000	DearHoney	
+9	F-Cool	氏家克典	Funk the Cool	XG	MU1000	KR. Palto47	
+10	opus8	小川悦司	Opus 8	XG	MU1000	KR. Palto47	
+11	Classic	宗川博	Classic Medley	XG	MU1000	KR. Palto47	
+12	rushhour	Sam Sketty, Graham Lee, 小川恭範	Rush Hour	XG	MU1000	KR. Palto47	
+13	sa-world	氏家克典	Secrets of Another World	XG	MU1000	N/A	
+14	pianocon	Unknown	Piano Concerto	XG	MU1000	N/A	
+15	serenade	Pyotr Ilyich Tchaikovsky, Unknown	Serenade op.48	XG	MU1000	N/A	
+16	mars	Gustav Holst, Unknown	Mars, the Bringer of War	XG	MU1000	N/A	
+17	xdh	Unknown	小刀會	XG	MU1000	N/A	
