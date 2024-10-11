@@ -93,22 +93,22 @@ id	text	file	artist	title	standard	audio	renderer	extra
 91	𐑧	LOW_FLY	Chas Smith	Low Flying	GS	SC-55	Lumière Élevé	
 92	𐑦	SUPLEX	坂上暢	Suplex Hold	GS	SC-55	Lumière Élevé	
 93	𐑪	MONOPOLY	Adrian Scott	Monopoly	GS	SC-55	Lumière Élevé	
-94	𐑳	DinoJung	
-95	𐑫	Oxygen	
-96	𐑩	Virtual	
-97	𐑰	Demo01	
-98	𐑷	01Piano	
-99	𐑻	09Cello	
-100	𐑵	14WindOc	
-101	𐑭	04NylonG	
-102	𐑱	07Gt_Org	
-103	𐑲	10JzFunk	
-104	𐑶	13Tpt	
-105	𐑴	18SD90_2	
-106	𐑬	BLDPIANO	
-107	𐑾	DISCO	
-108	𐑺	PROGRESS	
-109	𐑸	EASY	
-110	𐑹	FILMSCOR	
-111	𐑺	LIVE	
-112	𐑼	SNOWTOWN	
+94	𐑳	DinoJung	Yamaha	Dino Jungle	XG, PLG-VL	MU2000, PLG150-VL	Arthur Pirika	
+95	𐑫	Oxygen	Andy Mowat, Daniel Powell	Oxygen	XG, PLG-VL	MU100, PLG150-VL	Schule04	
+96	𐑩	Virtual	Yamaha	Virtual	XG, PLG-PVL	QY70, S-YXG100PVL	JayB	
+97	𐑰	Demo01	Roland	Orchestra Medley	SD	SD-20	Romantique Tp	Rendered on SD-90 instead
+98	𐑷	01Piano	平下政志, 平下和子	Piano Demo	SD	SD-90	Romantique Tp	
+99	𐑻	09Cello	久光浩, 本郷久恵	Cello Demo	SD	SD-90	Romantique Tp	
+100	𐑵	14WindOc	久光浩, 本郷久恵	Wind & Orchestra Demo	SD	SD-90	Romantique Tp	
+101	𐑭	04NylonG	久光浩, 本郷久恵	Nylon Guitar Demo	SD	SD-90	Romantique Tp	
+102	𐑱	07Gt_Org	Music Brains	Rock Guitar & Organ Demo	SD	SD-90	Romantique Tp	
+103	𐑲	10JzFunk	Music Brains	Jazz Funk Demo	SD	SD-90	Romantique Tp	
+104	𐑶	13Tpt	Music Brains	Trumpet Demo	SD	SD-90	Romantique Tp	
+105	𐑴	18SD90_2	久光浩, 本郷久恵	Fortune 2001	SD	SD-90	Romantique Tp	
+106	𐑬	BLDPIANO	Max Tempia	Piano Ballad	PA	microARRANGER	PipeNacho1985	
+107	𐑾	DISCO	KORG	Disco	PA	microARRANGER	PipeNacho1985	
+108	𐑺	PROGRESS	G. Pavani	Progressive	PA	microARRANGER	PipeNacho1985	
+109	𐑸	EASY	Tony Diaz	Easy	PA	microARRANGER	PipeNacho1985	
+110	𐑹	FILMSCOR	Michael W. Geisel	Film Score	PA	microARRANGER	PipeNacho1985	
+111	𐑺	LIVE	G. Pavani	LIVE !	PA	microARRANGER	PipeNacho1985	
+112	𐑼	SNOWTOWN	Michael W. Geisel	Snow Town	PA	microARRANGER	PipeNacho1985	
