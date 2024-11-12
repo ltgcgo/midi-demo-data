@@ -1,0 +1,5 @@
+*.swp
+.zcompdump
+.zsh_history
+build
+.docker_name
