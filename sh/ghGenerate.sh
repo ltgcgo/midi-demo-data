@@ -15,7 +15,7 @@ cd ghp-gz
 tree -ifl | while IFS= read -r file; do
 	if [ -f "$file" ]; then
 		# Is a file
-		if [[ "$file" =~ "$COMPRESS_CRIT" ]]; then
+		if [ "$(echo "$file" | grep -E "$COMPRESS_CRIT")" != "" ]; then
 			zopfli --i1 "$file" && echo "Compressed \"${file}\" with Zopfli."
 		else
 			echo "File \"${file}\" cannot be compressed."
@@ -31,7 +31,7 @@ cd ghp-br
 tree -ifl | while IFS= read -r file; do
 	if [ -f "$file" ]; then
 		# Is a file
-		if [[ "$file" =~ "$COMPRESS_CRIT" ]]; then
+		if [ "$(echo "$file" | grep -E "$COMPRESS_CRIT")" != "" ]; then
 			brotli -vq 11 "$file" && echo "Compressed \"${file}\" with Zopfli."
 		else
 			echo "File \"${file}\" cannot be compressed."
