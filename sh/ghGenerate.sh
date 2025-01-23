@@ -12,19 +12,29 @@ cd ..
 #zopfli --i1 -v pages-build.tar
 #rm -v pages-build.tar
 cd ghp-gz
-tree -ifl | grep -E "${COMPRESS_CRIT}" | while IFS= read -r file; do
-	zopfli --i1 "$file"
+tree -ifl | while IFS= read -r file; do
 	if [ -f "$file" ]; then
-		rm -v "$file"
+		# Is a file
+		if [[ "$file" =~ "$COMPRESS_CRIT" ]]; then
+			zopfli --i1 "$file" && echo "Compressed \"${file}\" with Zopfli."
+		fi
+		if [ -f "$file" ]; then
+			rm -v "$file"
+		fi
 	fi
 done
 tar cvf ../pages-build-gz.tar *
 cd ..
 cd ghp-br
-tree -ifl | grep -E "${COMPRESS_CRIT}" | while IFS= read -r file; do
-	brotli -vq 11 "$file"
+tree -ifl | while IFS= read -r file; do
 	if [ -f "$file" ]; then
-		rm -v "$file"
+		# Is a file
+		if [[ "$file" =~ "$COMPRESS_CRIT" ]]; then
+			brotli -vq 11 "$file" && echo "Compressed \"${file}\" with Zopfli."
+		fi
+		if [ -f "$file" ]; then
+			rm -v "$file"
+		fi
 	fi
 done
 tar cvf ../pages-build-br.tar *
