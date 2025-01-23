@@ -9,8 +9,8 @@ cp -Lrv ghp ghp-br
 cd ghp
 tar cvhf ../pages-build.tar *
 cd ..
-zopfli --i1 -v pages-build.tar
-rm -v pages-build.tar
+#zopfli --i1 -v pages-build.tar
+#rm -v pages-build.tar
 cd ghp-gz
 tree -ifl | grep -E "${COMPRESS_CRIT}" | while IFS= read -r file; do
 	zopfli --i1 "$file"
