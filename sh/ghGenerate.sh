@@ -17,6 +17,8 @@ tree -ifl | while IFS= read -r file; do
 		# Is a file
 		if [[ "$file" =~ "$COMPRESS_CRIT" ]]; then
 			zopfli --i1 "$file" && echo "Compressed \"${file}\" with Zopfli."
+		else
+			echo "File \"${file}\" cannot be compressed."
 		fi
 		if [ -f "$file" ]; then
 			rm -v "$file"
@@ -31,6 +33,8 @@ tree -ifl | while IFS= read -r file; do
 		# Is a file
 		if [[ "$file" =~ "$COMPRESS_CRIT" ]]; then
 			brotli -vq 11 "$file" && echo "Compressed \"${file}\" with Zopfli."
+		else
+			echo "File \"${file}\" cannot be compressed."
 		fi
 		if [ -f "$file" ]; then
 			rm -v "$file"
