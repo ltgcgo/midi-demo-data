@@ -22,7 +22,7 @@ id	text	file	artist	title	standard	audio	renderer	extra
 20	u	TheFarEast	KORG	The Far East	KROSS 2	KROSS 2	PianoManChuck	
 21	v	01KIMIGA	KAWAI	君がいるだけで	GMega	GMega	DearHoney	Might be replaced due to copyright concerns
 22	w	10DOREMI	KAWAI	Do-Re-Mi	GMega	GMega	DearHoney	Might be replaced due to copyright concerns
-23	x	haruyoko	松任谷由実, Yamaha	春よ、来い	XG, PLG-SG	MU2000, PLG-100SG	superdeadite	
+23	x	haruyoko	松任谷由実, Yamaha	春よ、来い	XG, PLG-SG	MU2000, PLG100-SG	superdeadite	
 24	y	VLjazzy	Yamaha	VLjazzy	XG, PLG-VL	MU1000, PLG150-VL	DearHoney	
 25	z	PhoenixA	大平勇/氏家克典	A Phoenix to the 21st Century (Part A, Music Factory)	XG	MU1000	DearHoney	
 26	0	PhoenixB	大平勇/布施威	A Phoenix to the 21st Century (Part B, Invitation)	XG	MU1000	DearHoney	
@@ -61,7 +61,7 @@ id	text	file	artist	title	standard	audio	renderer	extra
 59	ω	DSL_DEMO	小見純一	Drum Solo Demo	XG, PLG-DR	MU2000, PLG150-DR	superdeadite	MIDI archived by now_its_dark
 60	ς	PXG_DEMO	今泉敏郎	PLG150-PC XG Demo	XG, PLG-PC	MU100, PLG150-PC	Dbug	MIDI archived by now_its_dark
 61	б	DoGrooVA	氏家克典	Do GrooVA	XG, PLG-VL	MU100, PLG100-VL	Schule04	
-62	в	02SOLO	Idecs Music Software	Solo Demo	XG, PLG-PF	MU1000, PLG-150PF	DearHoney	
+62	в	02SOLO	Idecs Music Software	Solo Demo	XG, PLG-PF	MU1000, PLG150-PF	DearHoney	
 63	г	Clouds	鈴木明男	Clouds	XG, PLG-VL	MU100, PLG100-VL	Schule04	
 64	ґ	Nobody	鈴木明男	Nobody Knows	XG, PLG-VL	MU100, PLG100-VL	Schule04	
 65	д	Silhouet	Tom Scott, Nate Tschetter, Charles Feilding	Silhouettes	XG, PLG-VL	MU100, PLG100-VL	Schule04	
@@ -112,3 +112,18 @@ id	text	file	artist	title	standard	audio	renderer	extra
 110	𐑹	FILMSCOR	Michael W. Geisel	Film Score	PA	microARRANGER	PipeNacho1985	
 111	𐑺	LIVE	G. Pavani	LIVE !	PA	microARRANGER	PipeNacho1985	
 112	𐑼	SNOWTOWN	Max Tempia	Snow Town	PA	microARRANGER	PipeNacho1985	
+113	𐑻	BarbHip	Yamaha	Barbie’s Hip	XG, PLG-PVL	S-YXG100PVL, S-YXG50	Lumière Élevé	
+114	𐑽	DeepHip	Yamaha	Deep Hip	XG, PLG-PVL	S-YXG100PVL, S-YXG50	Lumière Élevé	
+115	𐑿	BlkHole	Yamaha	Black Hole	XG, PLG-PVL	S-YXG100PVL, S-YXG50	Lumière Élevé	
+116	𐑐	QY70D_2	Yamaha	QY70 Demo No. 2	XG	QY70	JayB	
+117	𐑚	Amazing	Yamaha	Amazing Grace	XG	MU100	Schule04	
+118	𐑑	Jingle	Yamaha, J. S. Pierpont	Jingle Bells	XG	MU100	Schule04	
+119	𐑛	WorldTur	Yamaha	World Tour	XG, PLG-PVL	S-YXG100PVL, S-YXG50	Lumière Élevé	
+120	𐑒	UnderGrd	Yamaha	Under Ground	XG, PLG-PVL	S-YXG100PVL, S-YXG50	Lumière Élevé	
+121	𐑜	SoSoCool	森尾隆	So So Cool	XG	MU2000EX	KR. Palto47	
+122	𐑕	pianocon	Unknown	Piano Concerto	XG	MU1000	DearHoney	
+123	𐑟	sa-world	氏家克典	Secrets of Another World	XG	MU1000	DearHoney	
+124	𐑓	serenade	Pyotr Ilyich Tchaikovsky, Unknown	Serenade op.48	XG	MU1000	DearHoney	
+125	𐑝	rushhour	Sam Sketty	Rush Hour	XG	MU1000	DearHoney	
+126	𐑔	Trance	長栄克巳	Trance	XG, PLG-AN	MU2000, PLG150-AN	MasterJace	
+127	𐑞	ProgRock	長栄克巳	Progressive Rock	XG, PLG-AN	MU2000, PLG150-AN	MasterJace	
