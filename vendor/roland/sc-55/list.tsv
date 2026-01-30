@@ -1,20 +1,41 @@
-id	file	artist	title	standard	audio	renderer	extra
-0	StarGame	John Campbell	Star Games	GS	SC-88 Pro	DearHoney	Originally made for SC-55
-1	J_LAGOON	John Campbell	Jazz Lagoon	GS	SC-55		
-2	SORCERY	Chas Smith	Sorcery	GS	SC-55		
-3	FILLE	平下政志, 平下和子	La fille aux cheveux de lin	GS	SC-55		
-4	BYT	坂上暢	B.Y.T.	GS	SC-55		
-5	LEYA	Adrian Scott	Leya's Song	GS	SC-55		
-6	INSIDER	坂上暢	Insider	GS	SC-55		
-7	CYGNE	平下政志, 平下和子	Le cygne	GS	SC-55		
-8	09_2ndFg	坂上暢	2nd time Foreground	GS	SC-55		
-9	AQABA	坂上暢	AQABA	GS	SC-55		
-10	M_LOVE	John Campbell	Martians In Love	GS	SC-55		
-11	12_Prmrv	平下政志, 平下和子	La primavera	GS	SC-55		
-12	13_Sym	村上昇	Symphonie No. 5	GS	SC-55		
-13	WIZARD	Marvin Sanders	Mr. wIzArD	GS	SC-155		
-14	WORM	坂上暢	W O R M hole	GS	SC-33		
-15	MOON_L	John Campbell	Moonlight Picnic	GS	SC-55		
-16	LOW_FLY	Chas Smith	Low Flying	GS	SC-55		
-17	SUPLEX	坂上暢	Suplex Hold	GS	SC-55		
-18	MONOPOLY	Adrian Scott	Monopoly	GS	SC-55		
+id	file	artist	title	year	standard	audio	renderer	copyright	extra
+0	StarGame	John Campbell	Star Games	1991	GS	SC-88 Pro	DearHoney_1996	1991 © John Campbell	Originally made for SC-55
+1	J_LAGOON	John Campbell	Jazz Lagoon	1991	GS	SC-55	Lumière Élevé	1991 © John Campbell	
+2	SORCERY	Chas Smith	Sorcery	1991	GS	SC-55	Lumière Élevé	1991 © Roland UK	
+3	FILLE	平下政志, 平下和子	La fille aux cheveux de lin	1991	GS	SC-55	Lumière Élevé	1991 © Roland Corporation	
+4	BYT	坂上暢	B.Y.T.	1991	GS	SC-55	Lumière Élevé	1991 © Roland Corporation	
+5	LEYA	Adrian Scott	Leya's Song	1991	GS	SC-55	Lumière Élevé	1991 © Adrian Scott	
+6	INSIDER	坂上暢	Insider	1991	GS	SC-55	Lumière Élevé	1991 © Roland Corporation	
+7	CYGNE	平下政志, 平下和子	Le cygne	1991	GS	SC-55	Lumière Élevé	1991 © Roland Corporation	
+8	09_2ndFg	坂上暢	2nd time Foreground	1991	GS	SC-55	Lumière Élevé	1991 © Roland Corporation	
+9	AQABA	坂上暢	AQABA	1991	GS	SC-55	Lumière Élevé	1991 © Roland Corporation	
+10	M_LOVE	John Campbell	Martians In Love	1991	GS	SC-55	Lumière Élevé	1991 © John Campbell	
+11	12_Prmrv	平下政志, 平下和子	La primavera	1991	GS	SC-55	Lumière Élevé	1991 © Roland Corporation	
+12	13_Sym	村上昇	Symphonie No. 5	1991	GS	SC-55	Lumière Élevé	1991 © Roland Corporation	
+13	WIZARD	Marvin Sanders	Mr. wIzArD	1992	GS	SC-155	Lumière Élevé	1991 © Marvin Sanders	
+14	WORM	坂上暢	W O R M hole	1992	GS	SC-33	Lumière Élevé	1992 © Roland Corporation	
+15	MOON_L	John Campbell	Moonlight Picnic	1993	GS	SC-55	Lumière Élevé	1993 © Evanhale Music	
+16	LOW_FLY	Chas Smith	Low Flying	1993	GS	SC-55	Lumière Élevé	1993 © Roland UK	
+17	SUPLEX	坂上暢	Suplex Hold	1993	GS	SC-55	Lumière Élevé	1993 © Roland Corporation	
+18	MONOPOLY	Adrian Scott	Monopoly	1993	GS	SC-55	Lumière Élevé	1993 © Adrian Scott	
+19	ANNIE	瑞木薫	Annie Laurie	1993	GS	SC-55	Lumière Élevé	1991 © Roland Corporation	
+20	CIELITO	瑞木薫	Cielito Lindo	1993	GS	SC-55	Lumière Élevé	1991 © Roland Corporation	
+21	EINE_KLI	村上昇	Eine Kleine Nachtmusik	1993	GS	SC-55	Lumière Élevé	1991 © Roland Corporation	
+22	HOME_ON	村上昇	Home on the Range	1993	GS	SC-55	Lumière Élevé	1991 © Roland Corporation	
+23	LA_GOLON	村上昇	La Golondrinas	1993	GS	SC-55	Lumière Élevé	1991 © Roland Corporation	
+24	OZ_CONNE	Adrian Scott	Oz Connection	1993	GS	SC-55	Lumière Élevé	1992 © Adrian Scott	
+25	PATHETIQ	平下政志	Sonata No.8: Pathetique	1993	GS	SC-55	Lumière Élevé	1991 © Roland Corporation	
+26	CONSTANZ	John Maul	Theme for: Constanze	1993	GS	SC-55	Lumière Élevé	1992 © Roland Corporation	
+27	BK_ALLY	John Campbell	Back Alley Joe	1993	GS	SC-55	Lumière Élevé	1992 © John Campbell	
+28	BLUE_P	Chong Lim	Blue Planet	1993	GS	SC-55	Lumière Élevé	1993 © Roland Corporation	
+29	BOMB	川口淳一	BOMB!!	1993	GS	SC-55	Lumière Élevé	1993 © Roland Corporation	
+30	BOP_U	John Campbell	Bop U Drop	1993	GS	SC-55	Lumière Élevé	1992 © John Campbell	
+31	COUNT	John Maul	Count on the Blues	1993	GS	SC-55	Lumière Élevé	1992 © Roland Corporation	
+32	DEADEND	坂上暢	Deadend	1993	GS	SC-55	Lumière Élevé	1993 © Roland Corporation	
+33	MECHANO	ヲノサトル	Mechano Brew	1993	GS	SC-55	Lumière Élevé	1993 © Roland Corporation	
+34	YEBISU	中村繁一	Yebisu	1993	GS	SC-55	Lumière Élevé	1993 © Roland Corporation	
+35	ANTICI	Chong Lim	Anticipating U	1993	GS	SC-55	Lumière Élevé	1992 © Chong Lim	
+36	ETHNO_PA	川口淳一	Ethno Papa	1993	GS	SC-55	Lumière Élevé	1993 © Roland Corporation	
+37	KEEPERS	John Maul	The Keepers' Tale	1993	GS	SC-55	Lumière Élevé	1992 © Roland Corporation	
+38	MOON_B	John Maul	Moonshine Bash!	1993	GS	SC-55	Lumière Élevé	1992 © Roland Corporation	
+39	SOUTHERN	伊藤せいいち	Southern Peace	1993	GS	SC-55	Lumière Élevé	1993 © Roland Corporation	
